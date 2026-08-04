@@ -10,8 +10,8 @@
   "total": 86,
   "counts": {
     "curated": 4,
-    "auto": 61,
-    "metadata_only": 21
+    "auto": 76,
+    "metadata_only": 6
   },
   "reports": [
     {
@@ -379,20 +379,41 @@
     {
       "source_id": "SRC-TN-2025-2025-0630-tekhnet-bvs-itog",
       "file": "2025_0630_tekhnet_bvs_itog.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2025_0630_tekhnet_bvs_itog.txt",
       "year": 2025,
       "category": "report",
       "topics": [
         "БВС/беспилотники"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2025/06/30/2025_0630_tekhnet_bvs_itog.pdf",
-      "chars": 709,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 630151,
+      "image_based": false,
+      "abstract": "Экспертно\n-аналитический доклад подготовлен Инфраструктурным центром \n« Технет\n» СПбПУ, в том \nчисле с использованием данных опросов экспертов и участников рынка Национальной технологи-ческой и\nнициативы (НТИ). \nРезультаты исследования направлены на содействие \nрешени\nю стра-\nтегических задач, связанных с \nдостижени\nем технологического лидерства и обеспечением техноло-\nгического суверенитета Российской Федерации, что особенно важно в условиях усиливающейся глобальной конкуренции. Также настоящий доклад вносит важный вклад в формирование научно\n-\nтехнологического задела для с\nбалансированного и устойчивого развития отрасли беспилотных \nвоздушных \nсуд\nов (далее \n– БВС)\n. Актуальность настоящего доклада подтверждается в том числе \nтекущими государственными инициативами, такими как, например, создание отдельного рода войск беспилотных с\nистем\n[4]\n.\nЭкспертно\n-аналитический доклад посвящён комплексному анализу отрасли беспилотных воздуш-\nных \nсуд\nов \n–от текущего состояния отечественного рынка в сравнении с мировым до выделения основных экономических и технологических тенденций и возможностей развития в средне\n- и дол-\nгосрочной перспективе. Ключевым аспектом настоящего исследования \nвы",
+      "toc": [
+        "СПИСОК РИСУНКОВ",
+        "СПИСОК ТАБЛИЦ",
+        "СОКРАЩЕНИЯ И ОБОЗНАЧ",
+        "ГЛАВА 1.",
+        "АНАЛИЗ ТЕКУЩЕГО СОСТ",
+        "ОЯНИЯ РАЗВИТИЯ ОТРАС",
+        "ГЛАВА 2.",
+        "АНАЛИЗ ПЕРСПЕКТИВ РА",
+        "ЗВИТИЯ ОТРАСЛИ",
+        "ГЛАВА 4. ОСОБЕННОСТИ",
+        "ЧИСЛЕННОГО МОДЕЛИРО",
+        "ВАНИЯ ПРОЦЕССОВ",
+        "КОМПОЗИЦИОННЫХ МАТЕР",
+        "ИАЛОВ С УЧЕТОМ УДАРН",
+        "ЫХ ПОВРЕЖДЕНИЙ",
+        "ГЛАВА 5. МЕХАНИЗМЫ В",
+        "НЕДРЕНИЯ ЦИФРОВЫХ ТЕ",
+        "ХНОЛОГИЙ ОБЕСПЕЧЕНИЯ",
+        "ЭКСПЛУАТАЦИИ КОМПОЗИ",
+        "ТНЫХ И ГИБРИДНЫХ КОН"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2025-2025-0924-digest-technet-09",
@@ -837,20 +858,30 @@
     {
       "source_id": "SRC-TN-2024-2024-1229-arhitektura-rynka-tehnet",
       "file": "2024_1229_arhitektura-rynka-tehnet.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2024_1229_arhitektura-rynka-tehnet.txt",
       "year": 2024,
       "category": "report",
       "topics": [
         "архитектура рынка"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1229_arhitektura-rynka-tehnet.pdf",
-      "chars": 925,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 246790,
+      "image_based": false,
+      "abstract": "Аналитическое исследование архитектуры рынка «Архитектура кросс\n-рыночного, кросс\n- отрасле-\nвого направления \"\nТехнет\" НТИ (включая обзор применения технологий цифрового проектирова-\nния и моделирования для обоснования компоновочных решений в машиностроении)» подготов-лено Инфраструктурным центром по развитию направления Национальной технологической ини-циативы «Технет\n» (передовые производственные технологии), созданного в 2024 году на базе \nСанкт\n-Петербургского политехнического университета Петра Великого.Подготовка аналитического доклада об архитектуре направления «Технет» НТИ стала одной из важнейших задач Инфраструк\nтурного центра «Технет» СПбПУ, реализуемых совместно с Депар-\nтаментом архитектуры НТИ и аналитики АНО «Платформа НТИ», а также с представителями экс-пертного сообщества, в 2024 году. В рамках работы была сформирована концептуальная архитектура направления «\nТехнет» НТИ, \nвыделены сегменты и оформлен классификатор\n-справочник технологий данного направления, а \nтакже подготовлен реестр компаний, относящихся к \nнаправлению \n«Технет» НТИ.\nАналитическое исследование \nстанет ос новой для формирования аналогичных ежегодных\nиссле-\nдований в период деятельности Инфрастру",
+      "toc": [
+        "СПИСОК РИСУНКОВ",
+        "СПИСОК ТАБЛИЦ",
+        "ЦЕПОЧКИ КООПЕРАЦИЙ В",
+        "РАМКАХ НАПРАВЛЕНИЯ «ТЕХНЕТ» НТИ",
+        "ОТРАСЛЕВЫЕ ПРИМЕНЕНИЯ ТЕХНОЛОГИЙ И ПРИМЕНЕНИЕ ПРОДУКТОВ ПО НАПРАВЛЕНИЮ «ТЕХНЕТ» НТИ",
+        "ЗАВИСИМОСТЬ ОТ ИНОСТРАННЫХ ПОСТАВЩИКОВ И КОМПЛЕКТУЮЩИХ В РАМКАХ НАПРАВЛЕНИЯ «ТЕХНЕТ» НТИ",
+        "БЕНЧМАРКИ ПОКАЗАТЕЛЕЙ ДЛЯ ТЕХНОЛОГИЧЕСКИХ СЕГМЕНТОВ НАПРАВЛЕНИЯ «ТЕХНЕТ» НТИ",
+        "ГЛОССАРИЙ ТЕРМИНОВ НАПРАВЛЕНИЯ «ТЕХНЕТ» НТИ",
+        "БИБЛИОГРАФИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2024-perspectivy-i-scenarii-razv-materialov",
@@ -959,18 +990,20 @@
     {
       "source_id": "SRC-TN-2023-dajdzhest-klyuchevye-sobytiya-v-oblasti-gosudars",
       "file": "Dajdzhest-Klyuchevye-sobytiya-v-oblasti-gosudarstvennyh-programm-i-mer-podderzhki-ppt-01062022.pdf",
-      "text_file": null,
+      "text_file": "sources_text/Dajdzhest-Klyuchevye-sobytiya-v-oblasti-gosudarstvennyh-programm-i-mer-podderzhki-ppt-01062022.txt",
       "year": 2023,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Dajdzhest-Klyuchevye-sobytiya-v-oblasti-gosudarstvennyh-programm-i-mer-podderzhki-ppt-01062022.pdf",
-      "chars": 74,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 11741,
+      "image_based": false,
+      "abstract": "состоит в том, чтобы обеспечить разработку революционных датчиков, которые используют исключительную чувствительность квантовых систем для обеспечения повышенной точности, скорости и диапазона измеряемых явлений. Необходимо, чтобы это новое поколение сенс",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2023-ead2",
@@ -993,25 +1026,31 @@
     {
       "source_id": "SRC-TN-2023-ekspertno-analiticheski-doklad-peredovye-cifrovy",
       "file": "Ekspertno-analiticheski_doklad_Peredovye_cifrovye_i_proizvodstvennye_tekhnologii_v-mire_i_v_Rossii_v_usloviyah_novoj_geopoliticheskoj_situacii.pdf",
-      "text_file": null,
+      "text_file": "sources_text/Ekspertno-analiticheski_doklad_Peredovye_cifrovye_i_proizvodstvennye_tekhnologii_v-mire_i_v_Rossii_v_usloviyah_novoj_geopoliticheskoj_situacii.txt",
       "year": 2023,
       "category": "report",
       "topics": [
         "цифровые платформы"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/13/Ekspertno-analiticheski_doklad_Peredovye_cifrovye_i_proizvodstvennye_tekhnologii_v-mire_i_v_Rossii_v_usloviyah_novoj_geopoliticheskoj_situacii.pdf",
-      "chars": 1226,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 265106,
+      "image_based": false,
+      "abstract": "В 2022 г. передовые цифровые и производственные технологии \n– не только один из главных ми-\nровых трендов четв\nертой промышленной революции, но и основа модернизации и опережающего \nразвития промышленн\nости России. Они имеют высокий потенциал применения в условиях резко \nменяющейся геополитической ситуации, когда обеспечение технологического суверенитета нашей страны и ускорение темпов развития высокотехнологического сектора экономики являются \nприо-\nритетам\nи. Их внедрение может способствовать прорывным экономическим эффектам как для от-дельных предприятий, так и для целых отраслей, их применяющих. В частности, разработка и внедрение данных технологий является необходимым условием для вывода отечественных комп\nа-\nний на современный уровень, что позволит полностью обеспечить внутренние потребности страны в актуальной высокотехнологической продукции. Это является критически важным в условиях санкций и экономической блокады, когда доступ на глобальные рынки существен\nно затрудн\nе н.\nСкорость и эффективность цифровой трансформации российской промышленности будут непо-средственно определять успешность нашего государства в непростой международной обстановке. Поэтому особую важность прио",
+      "toc": [
+        "ГЛАВА 1.",
+        "ЦИФРОВЫЕ ТЕХНОЛОГИИ ДЛЯ ТОПЛИВНО",
+        "ГЛАВА 2.ЦИФРОВЫЕ ТЕХНОЛОГИИ В МАШИНОСТРОЕНИИ",
+        "ГЛАВА 3.НОВАЯ МОДЕЛЬ ИНЖЕНЕРНОГО ОБРАЗОВАНИЯ",
+        "БИБЛИОГРАФИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2023-issledovanie-mezhdunarodnogo-i-rossijskogo-rynka",
       "file": "Issledovanie-mezhdunarodnogo-i-rossijskogo-rynka-additivnyh-tekhnologij-s-ispolzovaniem-metallicheskih-materialov-v-ramkah-napravleniya-Tekhnet-NTI.pdf",
-      "text_file": null,
+      "text_file": "sources_text/Issledovanie-mezhdunarodnogo-i-rossijskogo-rynka-additivnyh-tekhnologij-s-ispolzovaniem-metallicheskih-materialov-v-ramkah-napravleniya-Tekhnet-NTI.txt",
       "year": 2023,
       "category": "report",
       "topics": [
@@ -1019,65 +1058,90 @@
         "новые материалы"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2023/06/30/Issledovanie-mezhdunarodnogo-i-rossijskogo-rynka-additivnyh-tekhnologij-s-ispolzovaniem-metallicheskih-materialov-v-ramkah-napravleniya-Tekhnet-NTI.pdf",
-      "chars": 332,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 171430,
+      "image_based": false,
+      "abstract": "Аддитивное производство \n–инновационное направление деятельности, включающее в себя раз-\nработку и производство аддитивного оборудования, комплектующих, материалов для 3D\n- печати \nи специализированного программного обеспечения, а также оказания инжиниринговых услуг и НИОКР в сфере аддитивных технологий (АТ). Применение АТ позволяет существенно сокращать \nвремя от разработки изделия до выпуска готовой продукции, снизить материалоёмкость продук-ции, потребление энергоресурсов. Технологии АТ позволяют изготавливать изделия со сложными формами и улучшенными свойствами, которые ранее не представлялось возможным п\nроизводить \nиз\n-за технологических ограничений.Целью данной работы является актуализация и обобщение информации по мировому и россий-скому рынку аддитивных технологий по итогам 2022 года с более детальным фокусом на периметр \n«3D\n-печать металлами», выявление \nтрендов, проведение оценок объёма рынка, его динамики, \nпрогнозных значений. В работе приводится описание основных производителей оборудования 3D\n-\nпечати, а также предоставляются оценки финансовых показателей игроков рынка. Рассматрива-ются известные сделки M\n&A, приводится описание нормативно\n-правового регулирования и",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ГЛАВА 1.",
+        "РЫНОК АДДИТИВНЫХ ТЕХНОЛОГИЙ В РАМКАХ",
+        "НАПРАВЛЕНИЯ «ТЕХНЕТ» НТИ",
+        "ГЛАВА 2.",
+        "ГЛАВА 3.",
+        "ОСНОВНЫЕ ИГРОКИ И ПРОЕКТЫ НА РЫНКЕ АДДИТИВНЫХ ТЕХН",
+        "ГЛАВА 4.",
+        "ОСНОВНЫЕ ТЕХНОЛОГИИ И РАЗРАБОТКИ НА РЫНКЕ АДДИТИВНЫХ ТЕХНОЛОГИЙ",
+        "ГЛАВА 5."
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2023-klyuchevye-sobytiya-rynka-venchurnogo-finansirov",
       "file": "Klyuchevye-sobytiya-rynka-venchurnogo-finansirovaniya-ppt-01062022.pdf",
-      "text_file": null,
+      "text_file": "sources_text/Klyuchevye-sobytiya-rynka-venchurnogo-finansirovaniya-ppt-01062022.txt",
       "year": 2023,
       "category": "report",
       "topics": [
         "стартапы/венчур"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Klyuchevye-sobytiya-rynka-venchurnogo-finansirovaniya-ppt-01062022.pdf",
-      "chars": 80,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 13084,
+      "image_based": false,
+      "abstract": "Дайджест ключевых событий и проектов: \nянварь\n- июнь \n2022\nКЛЮЧЕВЫЕ СОБЫТИЯ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ ПЕРЕДОВЫХ ПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИЙ\n \n \n \nМосква\n202\n2 \n \n \n \n \n \nОГЛАВЛЕНИЕ\nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\n................................\n................................\n................................\n.......\n3\nОБЗОР СОБЫТИЙ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ\n................................\n.................\n4 \n \n \n \n \n \n \n \nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\nAIoT\n(Artificial\nIntelligence\nof Things ; Искусственный интеллект вещей\n) – сочетание \nтехнологий искусственного интеллекта с инфраструктурой Интернета вещей для повышения эффективности операций IoT, улучшения взаимодействия человека и машины и улучшения управления данными и аналитики.Раунды финансирования \n– этапы финансирования\nстартапа",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ОБЗОР СОБЫТИЙ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2023-klyuchevye-sobytiya-v-oblasti-peredovyh-nauchno-",
       "file": "Klyuchevye-sobytiya-v-oblasti-peredovyh-nauchno-tekhnologicheskih-proektov-vedushchih-rossiiskih-i-zarubezhnyhnauchnyh-organizacii.pdf",
-      "text_file": null,
+      "text_file": "sources_text/Klyuchevye-sobytiya-v-oblasti-peredovyh-nauchno-tekhnologicheskih-proektov-vedushchih-rossiiskih-i-zarubezhnyhnauchnyh-organizacii.txt",
       "year": 2023,
       "category": "report",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Klyuchevye-sobytiya-v-oblasti-peredovyh-nauchno-tekhnologicheskih-proektov-vedushchih-rossiiskih-i-zarubezhnyhnauchnyh-organizacii.pdf",
-      "chars": 25,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 25447,
+      "image_based": false,
+      "abstract": "Ученые опубликовали первую полную последовательность человеческого генома без пробелов спустя два десятилетия после того, как в рамках проекта «Геном человека» был подготовлен первый черновик последовательности человеческого генома. По словам исследователей, наличие полной, свободной от пробелов последовательности примерно из 3 миллиардов ос",
+      "toc": [
+        "КЛЮЧЕВЫЕ СОБЫТИЯ В ОБЛАСТИ ПЕРЕДОВЫХ НАУЧНО",
+        "ВЕДУЩИХ РОССИЙСКИХ И ЗАРУБЕЖНЫХ",
+        "НАУЧНЫХ ОРГАНИЗАЦИЙ",
+        "О ГЛАВЛЕНИЕ",
+        "2. Вирус иммунодефицита человека подтипа VB, изображение п",
+        "4. Фотография нефтяного пятна, сделанная 8"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2023-klyuchevye-sobytiya-v-oblasti-startap-razrabotok",
       "file": "Klyuchevye-sobytiya-v-oblasti-startap-razrabotok-na-baze-peredovyh-proizvodstvennyh-tekhnologi-01062022.pdf",
-      "text_file": null,
+      "text_file": "sources_text/Klyuchevye-sobytiya-v-oblasti-startap-razrabotok-na-baze-peredovyh-proizvodstvennyh-tekhnologi-01062022.txt",
       "year": 2023,
       "category": "report",
       "topics": [
         "стартапы/венчур"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Klyuchevye-sobytiya-v-oblasti-startap-razrabotok-na-baze-peredovyh-proizvodstvennyh-tekhnologi-01062022.pdf",
-      "chars": 56,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 11985,
+      "image_based": false,
+      "abstract": "Дайджест ключевых событий и проектов: \nянварь\n- июнь \n2022\nКЛЮЧЕВЫЕ СОБЫТИЯ В ОБЛАСТИ СТАРТАП\n-\nРАЗРАБОТОК НА БАЗЕ ПЕРЕДОВЫХ ПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИЙ\n \n \n \n \nМосква 202\n2\n \n \n \n \n \n \nОГЛАВЛЕНИЕ\nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\n................................\n................................\n................................\n.......\n3\nОБЗОР СОБЫТИЙ РЫНКА СТАРТАП\n- РАЗРАБОТОК\n................................\n................................\n......\n4\n \n \n \n \n \n \n \n \n \n \nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\nAI (Artificial Intelligence) \n– технологии искусственного интеллекта\nIoT \n(Internet\nof Things\n) – технологии Интернета вещей\nРаунды финансирования \n– этапы финансирования \nстартапа. Инвестиции в стартап \nсчитаются рискованными, поэтому финансирование проекта разбивается на этапы, что позволяет минимизироват",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ОБЗОР СОБЫТИЙ РЫНКА СТАРТАП",
+        "ОБЗОР СОБЫТИЙ РЫНКА"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2023-ead-cpim",
@@ -1118,20 +1182,20 @@
     {
       "source_id": "SRC-TN-2022-2022-1220-prognoz-razvitiya-rynkov-ppt-zashchish",
       "file": "2022_1220_Prognoz_razvitiya_rynkov_PPT_zashchishchennyj.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1220_Prognoz_razvitiya_rynkov_PPT_zashchishchennyj.txt",
       "year": 2022,
       "category": "report",
       "topics": [
         "рынки/прогноз"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/31/2022_1220_Prognoz_razvitiya_rynkov_PPT_zashchishchennyj.pdf",
-      "chars": 1307,
-      "image_based": true,
-      "abstract": null,
+      "chars": 1541,
+      "image_based": false,
+      "abstract": "• \n• \n• \n• \n• \n• \n• \n \n• \n• \n• \n• \n• \n• \n• \n \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n \n \n \n• \n• \n• \n• \n• \n• \n• \n \nправительства\n26\n28\n30\n33\n38\n41\n46\n55\n47\n39\n49\n44\n41\n43\n46\n50\n56\n67\n76\n74\n68\n78\n89\n85\n99\n134\n161\n200\n280\n283\n250\n266\n354\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\nАмерика\nЕвропа\nАзиатско-Тихоокеанский регион\n23\n23\n37\n57\n69\n97\n156\n154\n140\n168\n243\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n• \n13,58\n14,68\n15,87\n17,15\n18,54\n20\n11,3\n14,08\n17,54\n21,86\n27,24\n33,94\n23,57\n34,15\n49,49\n71,71\n103,90\n212,62\n2021\n2022*\n2023*\n2024*\n2025*\n2026*\nStatista\nMarket Research\nMordor Intelligence\n• \n• \n",
       "toc": [],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2022-2022-1220-rejting-kompanij-tekhnet-zashchishchen",
@@ -1539,102 +1603,114 @@
     {
       "source_id": "SRC-TN-2020-2-1-digest-vnedreniya",
       "file": "2_1_digest_vnedreniya.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2_1_digest_vnedreniya.txt",
       "year": 2020,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2_1_digest_vnedreniya.pdf",
-      "chars": 62,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 19211,
+      "image_based": false,
+      "abstract": "Январь 2020: Роснефть внедряет систему искусственного интеллекта на буровых станкахРоснефть внедряет системы ИИ для автоматизации буровых процессов в Оренбургской области.Опираясь на исходные параметры, система своевременно вносит корректировки в управление технологическим процессом бурения. Для соблюдения безопасных норм, автоматизированная система на базе ИИ проводит сканирование датчиков каждые 10 миллисекунд и в случае",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2020-2-2-digest-vnedreniya",
       "file": "2_2_digest_vnedreniya.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2_2_digest_vnedreniya.txt",
       "year": 2020,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2_2_digest_vnedreniya.pdf",
-      "chars": 56,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 18045,
+      "image_based": false,
+      "abstract": "катализатора и оптических материалов следующего поколения путем создания различных платформ для моделирования и автоматизации искусственного интеллекта.Члены альянса будут продвигать совместные проекты путем проведения видеоконференций без личного присутствия и обмена результатами анализа, такими как данные и алгоритмы.",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2020-3-1-digest-startup",
       "file": "3_1_digest_startup.pdf",
-      "text_file": null,
+      "text_file": "sources_text/3_1_digest_startup.txt",
       "year": 2020,
       "category": "digest",
       "topics": [
         "стартапы/венчур"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/3_1_digest_startup.pdf",
-      "chars": 87,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 28800,
+      "image_based": false,
+      "abstract": "обла сти материалов и химических веществ. Предоставляя инструменты управления данными и искусственного интеллекта, адаптированные к применению материалов, платформа Citrine является важным инструментом документооборота, позволяющим ученым и инжен ерам крупных пр",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2020-3-2-digest-startup",
       "file": "3_2_digest_startup.pdf",
-      "text_file": null,
+      "text_file": "sources_text/3_2_digest_startup.txt",
       "year": 2020,
       "category": "digest",
       "topics": [
         "стартапы/венчур"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/3_2_digest_startup.pdf",
-      "chars": 97,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 31180,
+      "image_based": false,
+      "abstract": "Ко мпания Bright Machines представила новую микрофабрику с оптимизированным вводом в эксплуатацию и возможностью удаленного мониторинга и обслуживания, благодаря чему производители могут использовать устойчивую и масштабируемую производственную мощность для о беспечения стабильной производительности при любых перебоях в работе. Новые функции являются еще одним шагом в достижении",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2020-4-1-digest-issledovaniya",
       "file": "4_1_digest_issledovaniya.pdf",
-      "text_file": null,
+      "text_file": "sources_text/4_1_digest_issledovaniya.txt",
       "year": 2020,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/4_1_digest_issledovaniya.pdf",
-      "chars": 578,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 16350,
+      "image_based": false,
+      "abstract": "Измерение и документирование гравийных и известняковых карьеров, скал и других природных и искусственных объектов часто выполняется с помощью дронов, которые фотографируют местность. Затем записи загружаются в компьютер, который автоматически преобразует все в трехмерную модель местности.Однако пилоты дронов обходятся дорого, а измерения отнимают много времени, потому что дроном нужно управлять вручну",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2020-4-2-digest-issledovaniya",
       "file": "4_2_digest_issledovaniya.pdf",
-      "text_file": null,
+      "text_file": "sources_text/4_2_digest_issledovaniya.txt",
       "year": 2020,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/4_2_digest_issledovaniya.pdf",
-      "chars": 608,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 27397,
+      "image_based": false,
+      "abstract": "В исследовании будут использованы имеющиеся экспериментальные данные для прогнозирования сейсмических характеристик конструкций (например, железоб етонных зданий). Применению ИИ и больших данных позволит учесть их характеристики (материалы, нагрузка, особен ности строения) для понимания поведения новых конструкций в режиме, близком к реальному времени.",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2020-rynki-ppt",
