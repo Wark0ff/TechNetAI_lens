@@ -1,0 +1,999 @@
+{
+  "version": "1.0.0",
+  "purpose": "Полный каталог всех отчётов ИЦ «Технет» СПбПУ в папке sources/. Метаданные выведены из имён файлов и страниц-источников (без разбора содержимого). Для 4 отчётов 2026 г. текст разобран — см. reports_index.json (text_parsed=true).",
+  "navigator_rule": "Чтобы ответить по отчёту: 1) найди подходящий файл здесь по topics/year; 2) если text_parsed=false — сообщи пользователю имя файла и что для точных цитат его нужно разобрать; 3) не выдумывай содержимое неразобранного отчёта.",
+  "total": 86,
+  "by_year": {
+    "2026": 4,
+    "2025": 20,
+    "2024": 11,
+    "2023": 12,
+    "2022": 7,
+    "2021": 10,
+    "2020": 11,
+    "2019": 11
+  },
+  "reports": [
+    {
+      "file": "2026_0624_Дайджест_Июнь_2026.pdf",
+      "year": 2026,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 4.84,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2026/6/30_Digest_TechNet/2026_0624_Дайджест_Июнь_2026.pdf",
+      "text_parsed": true,
+      "parsed_ref": "data/reports_index.json"
+    },
+    {
+      "file": "2026_0630_nm_cpim_kompozicionnyh_materialov_tekhnet.pdf",
+      "year": 2026,
+      "category": "report",
+      "topics": [
+        "композиционные материалы",
+        "новые материалы"
+      ],
+      "size_mb": 6.31,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2026/06/30/2026_0630_nm_cpim_kompozicionnyh_materialov_tekhnet.pdf",
+      "text_parsed": true,
+      "parsed_ref": "data/reports_index.json"
+    },
+    {
+      "file": "2026_0630_tekhnet_bvs_itog.pdf",
+      "year": 2026,
+      "category": "report",
+      "topics": [
+        "БВС/беспилотники"
+      ],
+      "size_mb": 57.69,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2026/06/30/2026_0630_tekhnet_bvs_itog.pdf",
+      "text_parsed": true,
+      "parsed_ref": "data/reports_index.json"
+    },
+    {
+      "file": "2026_Tehnet_Digest_06.pdf",
+      "year": 2026,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 13.34,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2026/3/31/2026_Tehnet_Digest_06.pdf",
+      "text_parsed": true,
+      "parsed_ref": "data/reports_index.json"
+    },
+    {
+      "file": "0552_CAE.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "CAE"
+      ],
+      "size_mb": 2.63,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/12/0552_CAE.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "0553_PLM.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "PLM"
+      ],
+      "size_mb": 3.02,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/12/0553_PLM.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "0554_SCADA.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "SCADA"
+      ],
+      "size_mb": 4.16,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/12/0554_SCADA.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "0555_SPDM.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "SPDM"
+      ],
+      "size_mb": 3.2,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/12/0555_SPDM.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "0556_MES.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "MES"
+      ],
+      "size_mb": 3.36,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/12/0556_MES.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "06-30-digest.pdf",
+      "year": 2025,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 10.39,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/06/30/06-30-digest.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_0310_Cifrovye platformy_monografiya.pdf",
+      "year": 2025,
+      "category": "monograph",
+      "topics": [
+        "цифровые платформы"
+      ],
+      "size_mb": 3.85,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/11/2025_0310_Cifrovye%20platformy_monografiya.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_0310_Robototekhnika_monografiya.pdf",
+      "year": 2025,
+      "category": "monograph",
+      "topics": [
+        "робототехника"
+      ],
+      "size_mb": 2.53,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/11/2025_0310_Robototekhnika_monografiya.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_0327_Tekhnet_dajdzhest.pdf",
+      "year": 2025,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 3.07,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/03/31/2025_0327_Tekhnet_dajdzhest.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_0630_cpim_kompozicionnyh_materialov_tekhnet.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "композиционные материалы",
+        "новые материалы"
+      ],
+      "size_mb": 24.4,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/06/30/2025_0630_cpim_kompozicionnyh_materialov_tekhnet.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_0630_tekhnet_bvs_itog.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "БВС/беспилотники"
+      ],
+      "size_mb": 61.32,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/06/30/2025_0630_tekhnet_bvs_itog.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_0924_Digest_Technet_09.pdf",
+      "year": 2025,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 14.25,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/07/28/2025_0924_Digest_Technet_09.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_12_technet_smart_manufacturing_itog.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "умное производство"
+      ],
+      "size_mb": 7.26,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/12/01/2025_12_technet_smart_manufacturing_itog.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_12_tekhnet_brics_itog.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "БРИКС"
+      ],
+      "size_mb": 38.08,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/12/01/2025_12_tekhnet_brics_itog.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_12_tekhnet_tekhnologii_v_atomnoy_otrasli_itog.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "атомная отрасль"
+      ],
+      "size_mb": 37.53,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/12/01/2025_12_tekhnet_tekhnologii_v_atomnoy_otrasli_itog.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_DK Technet_Resume.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "дорожная карта"
+      ],
+      "size_mb": 1.72,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/12/29/2025_DK%20Technet_Resume.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_Technet_Architecture.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "архитектура рынка"
+      ],
+      "size_mb": 4.95,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/12/29/2025_Technet_Architecture.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_Technet_Pravo.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "право/регулирование"
+      ],
+      "size_mb": 1.29,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/23/2025_Technet_Pravo.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2025_Tehnet_Digest_12.pdf",
+      "year": 2025,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 14.42,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/23/2025_Tehnet_Digest_12.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Navigator_TechNet_12-2025.pdf",
+      "year": 2025,
+      "category": "report",
+      "topics": [
+        "навигатор"
+      ],
+      "size_mb": 3.48,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2025/12/12/Navigator_TechNet_12-2025.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024-12-28_Tekhnet_dajdzhest.pdf",
+      "year": 2024,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 3.81,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024-12-28_Tekhnet_dajdzhest.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1010_Doklad_APS-sistemy.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "БВС/беспилотники"
+      ],
+      "size_mb": 16.25,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/10/17/2024_1010_Доклад_APS-системы_для размещения.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1010_Doklad_CPOT.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "право/регулирование"
+      ],
+      "size_mb": 39.59,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/10/17/2024_1010_Доклад_ЦПОТ_для размещения.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1228_Additivnye_tekhnologii_ITOG3.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "аддитивные технологии"
+      ],
+      "size_mb": 7.66,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1228_Additivnye_tekhnologii_ITOG3.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1228_CAE.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "CAE"
+      ],
+      "size_mb": 2.53,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1228_CAE.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1228_MES.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "MES"
+      ],
+      "size_mb": 3.5,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1228_MES.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1228_PLM.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "PLM"
+      ],
+      "size_mb": 3.32,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1228_PLM.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1228_SCADA.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "SCADA"
+      ],
+      "size_mb": 4.98,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1228_SCADA.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1228_SPDM.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "SPDM"
+      ],
+      "size_mb": 3.66,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1228_SPDM.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2024_1229_arhitektura-rynka-tehnet.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "архитектура рынка"
+      ],
+      "size_mb": 21.03,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/12/31/2024_1229_arhitektura-rynka-tehnet.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "perspectivy-i-scenarii-razv-materialov.pdf",
+      "year": 2024,
+      "category": "report",
+      "topics": [
+        "новые материалы"
+      ],
+      "size_mb": 33.8,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2024/06/28/otchety/perspectivy-i-scenarii-razv-materialov.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "20220124_Otchet_Kiberfizicheskie_sistemy_zashchishchenny.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "киберфизические системы"
+      ],
+      "size_mb": 3.75,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/24/20220124_Otchet_Kiberfizicheskie_sistemy_zashchishchenny.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2023_1124_EAD_CPiM_ISBN.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "композиционные материалы"
+      ],
+      "size_mb": 3.34,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/11/24/2023_1124_ЭАД_ЦПиМ_версия_с_ISBN_для_размещения_на_сайте.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2023_1124_EAD_CTpk_ISBN.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "композиционные материалы"
+      ],
+      "size_mb": 4.01,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/11/24/2023_1124_ЭАД_ЦТпк_версия_с_ISBN_для_размещения_на_сайте.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Dajdzhest-Klyuchevye-sobytiya-v-oblasti-gosudarstvennyh-programm-i-mer-podderzhki-ppt-01062022.pdf",
+      "year": 2023,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.27,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Dajdzhest-Klyuchevye-sobytiya-v-oblasti-gosudarstvennyh-programm-i-mer-podderzhki-ppt-01062022.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "EAD2.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [],
+      "size_mb": 6.13,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/12/29/EAD2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Ekspertno-analiticheski_doklad_Peredovye_cifrovye_i_proizvodstvennye_tekhnologii_v-mire_i_v_Rossii_v_usloviyah_novoj_geopoliticheskoj_situacii.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "цифровые платформы"
+      ],
+      "size_mb": 24.48,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/13/Ekspertno-analiticheski_doklad_Peredovye_cifrovye_i_proizvodstvennye_tekhnologii_v-mire_i_v_Rossii_v_usloviyah_novoj_geopoliticheskoj_situacii.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Issledovanie-mezhdunarodnogo-i-rossijskogo-rynka-additivnyh-tekhnologij-s-ispolzovaniem-metallicheskih-materialov-v-ramkah-napravleniya-Tekhnet-NTI.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "аддитивные технологии",
+        "новые материалы"
+      ],
+      "size_mb": 18.45,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/06/30/Issledovanie-mezhdunarodnogo-i-rossijskogo-rynka-additivnyh-tekhnologij-s-ispolzovaniem-metallicheskih-materialov-v-ramkah-napravleniya-Tekhnet-NTI.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Klyuchevye-sobytiya-rynka-venchurnogo-finansirovaniya-ppt-01062022.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 1.55,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Klyuchevye-sobytiya-rynka-venchurnogo-finansirovaniya-ppt-01062022.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Klyuchevye-sobytiya-v-oblasti-peredovyh-nauchno-tekhnologicheskih-proektov-vedushchih-rossiiskih-i-zarubezhnyhnauchnyh-organizacii.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [],
+      "size_mb": 3.71,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Klyuchevye-sobytiya-v-oblasti-peredovyh-nauchno-tekhnologicheskih-proektov-vedushchih-rossiiskih-i-zarubezhnyhnauchnyh-organizacii.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Klyuchevye-sobytiya-v-oblasti-startap-razrabotok-na-baze-peredovyh-proizvodstvennyh-tekhnologi-01062022.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 1.46,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/01/12/Klyuchevye-sobytiya-v-oblasti-startap-razrabotok-na-baze-peredovyh-proizvodstvennyh-tekhnologi-01062022.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "ead_cpim.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "композиционные материалы"
+      ],
+      "size_mb": 44.22,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/06/30/ead_cpim.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "ead_ctpk.pdf",
+      "year": 2023,
+      "category": "report",
+      "topics": [
+        "композиционные материалы"
+      ],
+      "size_mb": 44.49,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2023/06/30/ead_ctpk.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1220_Prognoz_razvitiya_rynkov_PPT_zashchishchennyj.pdf",
+      "year": 2022,
+      "category": "report",
+      "topics": [
+        "рынки/прогноз"
+      ],
+      "size_mb": 12.47,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/31/2022_1220_Prognoz_razvitiya_rynkov_PPT_zashchishchennyj.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1220_Rejting_kompanij_Tekhnet_zashchishchennyj.pdf",
+      "year": 2022,
+      "category": "report",
+      "topics": [
+        "рейтинг компаний"
+      ],
+      "size_mb": 5.15,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1220_Rejting_kompanij_Tekhnet_zashchishchennyj.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_RYNKA_VENCHURNOGO_FINANSIROVANIYA_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+      "year": 2022,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 1.16,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_RYNKA_VENCHURNOGO_FINANSIROVANIYA_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_GOSUDARSTVENNYH_PROGRAMM_I_MER_PODDERZHKI_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+      "year": 2022,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.64,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_GOSUDARSTVENNYH_PROGRAMM_I_MER_PODDERZHKI_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_PEREDOVYH_NAUCHNO-TEKHNOLOGICHESKIH_PROEKTOV_VEDUSHCHIH_ROSSIJSKIH_I_ZARUBEZHNYH_NAUCHNYH_.pdf",
+      "year": 2022,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.38,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_PEREDOVYH_NAUCHNO-TEKHNOLOGICHESKIH_PROEKTOV_VEDUSHCHIH_ROSSIJSKIH_I_ZARUBEZHNYH_NAUCHNYH_.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_STARTAP-RAZRABOTOK_NA_BAZE_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+      "year": 2022,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 0.74,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_STARTAP-RAZRABOTOK_NA_BAZE_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2022_1229_Otchet_Additivnye_tekhnologii_zashchishchennyj.pdf",
+      "year": 2022,
+      "category": "report",
+      "topics": [
+        "аддитивные технологии"
+      ],
+      "size_mb": 10.46,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/31/2022_1229_Otchet_Additivnye_tekhnologii_zashchishchennyj.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1226_Daidzhest_venchur_chast_1.pdf",
+      "year": 2021,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 2.84,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1226_Daidzhest_venchur_chast_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1226_Daidzhest_venchur_chast_2.pdf",
+      "year": 2021,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 0.7,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1226_Daidzhest_venchur_chast_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1227_Daidzhest_startapy_chast_1.pdf",
+      "year": 2021,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 0.9,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1227_Daidzhest_startapy_chast_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1227_Daidzhest_startapy_chast_2.pdf",
+      "year": 2021,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 0.82,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1227_Daidzhest_startapy_chast_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1228_Daidzhest_gosprogrammy_chast_1.pdf",
+      "year": 2021,
+      "category": "digest",
+      "topics": [
+        "госпрограммы"
+      ],
+      "size_mb": 4.53,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1228_Daidzhest_gosprogrammy_chast_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1228_Daidzhest_gosprogrammy_chast_2.pdf",
+      "year": 2021,
+      "category": "digest",
+      "topics": [
+        "госпрограммы"
+      ],
+      "size_mb": 3.73,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1228_Daidzhest_gosprogrammy_chast_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1231_Doklad_reiting_kompanii.pdf",
+      "year": 2021,
+      "category": "report",
+      "topics": [
+        "рейтинг компаний"
+      ],
+      "size_mb": 3.49,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1231_Doklad_reiting_kompanii.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_1231_Otchet_Rynki_Tehnet.pdf",
+      "year": 2021,
+      "category": "report",
+      "topics": [
+        "рынки/прогноз"
+      ],
+      "size_mb": 5.98,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_1231_Otchet_Rynki_Tehnet.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_Kljuchevye_sobytija_v_oblasti_peredovyh_nauchno-tehnologicheskih_proektov_vedushhih_rossiiskih_i_zarubezhnyh_nauchnyh_organizacij-1.pdf",
+      "year": 2021,
+      "category": "report",
+      "topics": [],
+      "size_mb": 0.91,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_Kljuchevye_sobytija_v_oblasti_peredovyh_nauchno-tehnologicheskih_proektov_vedushhih_rossiiskih_i_zarubezhnyh_nauchnyh_organizacij-1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2021_Kljuchevye_sobytija_v_oblasti_peredovyh_nauchno-tehnologicheskih_proektov_vedushhih_rossiiskih_i_zarubezhnyh_nauchnyh_organizacij-2.pdf",
+      "year": 2021,
+      "category": "report",
+      "topics": [],
+      "size_mb": 1.55,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2021/12/31/otchety/2021_Kljuchevye_sobytija_v_oblasti_peredovyh_nauchno-tehnologicheskih_proektov_vedushhih_rossiiskih_i_zarubezhnyh_nauchnyh_organizacij-2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "1_2_ digest_gosprogrammy_i_fondy.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [
+        "госпрограммы"
+      ],
+      "size_mb": 2.3,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/1_2_%20digest_gosprogrammy_i_fondy.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2012_1230_doklad_ppt.pdf",
+      "year": 2020,
+      "category": "report",
+      "topics": [],
+      "size_mb": 8.4,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2012_1230_doklad_ppt.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2020_1230_Otchet_rynki_technet.pdf",
+      "year": 2020,
+      "category": "report",
+      "topics": [
+        "рынки/прогноз"
+      ],
+      "size_mb": 5.58,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2020_1230_Otchet_rynki_technet.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2020_1230_Reiting_technet_itog.pdf",
+      "year": 2020,
+      "category": "report",
+      "topics": [
+        "рейтинг компаний"
+      ],
+      "size_mb": 1.74,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2020_1230_Reiting_technet_itog.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2_1_digest_vnedreniya.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 2.52,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2_1_digest_vnedreniya.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2_2_digest_vnedreniya.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 2.18,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/2_2_digest_vnedreniya.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "3_1_digest_startup.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 3.36,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/3_1_digest_startup.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "3_2_digest_startup.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 3.64,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/3_2_digest_startup.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "4_1_digest_issledovaniya.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.73,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/4_1_digest_issledovaniya.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "4_2_digest_issledovaniya.pdf",
+      "year": 2020,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 3.02,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/12_december/30/otchety/4_2_digest_issledovaniya.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "Rynki_PPt.pdf",
+      "year": 2020,
+      "category": "report",
+      "topics": [
+        "рынки/прогноз"
+      ],
+      "size_mb": 29.15,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2020/01_january/10/Rynki_PPt.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "1-digest_vnedrenie_ppt_1.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 2.61,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/1-digest_vnedrenie_ppt_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2-digest_vnedrenie_ppt_2.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 2.14,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/2-digest_vnedrenie_ppt_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "2019_prilozhenie_8.pdf",
+      "year": 2019,
+      "category": "report",
+      "topics": [],
+      "size_mb": 2.62,
+      "source_url": "https://assets.fea.ru/uploads/fea/media/2019_prilozhenie_8.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "3-digest_issledovaniya_1.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 0.89,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/3-digest_issledovaniya_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "4-digest_issledovaniya_2.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.1,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/4-digest_issledovaniya_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "5-digest_startup_1.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 2.29,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/5-digest_startup_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "6-digest_startup_2.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [
+        "стартапы/венчур"
+      ],
+      "size_mb": 2.3,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/6-digest_startup_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "7-digest_nauka_1.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.22,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/7-digest_nauka_1.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "8-digest_nauka_2.pdf",
+      "year": 2019,
+      "category": "digest",
+      "topics": [],
+      "size_mb": 1.32,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/8-digest_nauka_2.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "cifrovoy_dvoinik.pdf",
+      "year": 2019,
+      "category": "report",
+      "topics": [],
+      "size_mb": 10.19,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/cifrovoy_dvoinik.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    },
+    {
+      "file": "rynki.pdf",
+      "year": 2019,
+      "category": "report",
+      "topics": [
+        "рынки/прогноз"
+      ],
+      "size_mb": 8.84,
+      "source_url": "https://assets.fea.ru/uploads/fea/news/2019/12_december/28/rynki.pdf",
+      "text_parsed": false,
+      "parsed_ref": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+term_id,term_ru,term_en,status,definition_ru
+technet,Технет (направление НТИ),TechNet,canonical,Кросс-рыночное и кросс-отраслевое направление НТИ по передовым производственным технологиям и Фабрикам Будущего.
+apt,Передовые производственные технологии (ППТ),Advanced manufacturing technologies,canonical,Интегрированный стек цифрового проектирования, ЖЦ, производства, данных и материалов.
+factory_of_future,Фабрика Будущего,Factory of the Future,canonical,Целевая модель производства с единым цифровым контуром.
+digital_factory,Цифровая фабрика,Digital Factory,canonical,Сквозное цифровое проектирование, PLM-контур и цифровые двойники изделий.
+smart_factory,Умная фабрика,Smart Factory,canonical,IIoT, MES/ERP, аналитика, роботизация и обратная связь эксплуатации.
+virtual_factory,Виртуальная фабрика,Virtual Factory,canonical,Цифровой двойник производственной системы и распределённая сеть.
+digital_twin,Цифровой двойник,Digital twin,canonical,Валидированная модель изделия, процесса или производственной системы.
+digital_thread,Цифровая нить,Digital thread,canonical,Сквозная связность данных по жизненному циклу изделия.
+target_matrix,Матрица целевых показателей и ресурсных ограничений,Target and resource-constraint matrix,operational,Методология увязки требований к изделию через цифровые двойники.
+technology_sovereignty,Технологический суверенитет,Technological sovereignty,canonical,Способность владеть, обслуживать, воспроизводить и развивать средства производства.
+cognitive_autonomy,Когнитивная автономия,Cognitive autonomy,canonical,Инженерные школы, методология, данные, стандарты и права на IP.
+subjectivity,Субъектность промышленности,Industrial agency,canonical,Способность самостоятельно проектировать, производить и развивать изделия.
+cross_industry,Кросс-отраслевой трансфер,Cross-industry transfer,canonical,Перенос решений между рынками НТИ и отраслями.
+virtual_testing,Виртуальные испытания,Virtual testing,operational,Часть испытаний на валидированных цифровых двойниках взамен натурных.
+digital_certification,Цифровая сертификация,Digital certification,operational,Подтверждение соответствия с использованием валидированных моделей.
+additive,Аддитивные технологии,Additive manufacturing,operational,Послойное изготовление изделий сложной геометрии.
+robotics,Промышленная робототехника,Industrial robotics,operational,Автоматизация операций роботизированными системами.
+iiot,Промышленный интернет вещей (IIoT),Industrial IoT,operational,Сеть датчиков и устройств для сбора данных производства.
+plm,Управление жизненным циклом (PLM/PDM),Product lifecycle management,operational,Управление данными и процессами изделия на всех этапах.
+mes_erp,Системы управления производством (MES/ERP),MES/ERP systems,operational,Оперативное управление производством и ресурсами предприятия.
+new_materials,Новые материалы,New materials,operational,Сплавы, полимеры, композиты и метаматериалы с цифровыми моделями.
+trl,Уровень готовности технологии (УГТ),Technology readiness level,operational,Шкала 1-9 зрелости технологии от концепции до серии.
+cross_market,Кросс-рыночность и кросс-отраслевость,Cross-market and cross-industry nature,canonical,Применение одних технологий в разных отраслях и рынках НТИ.
+cml_bench,CML-Bench®,CML-Bench®,reference,Отечественная платформа разработки цифровых двойников.
+nti,Национальная технологическая инициатива (НТИ),National Technology Initiative,reference,Программа развития рынков и технологий; включает направление Технет.

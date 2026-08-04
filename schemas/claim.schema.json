@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:technet:schema:claim:1.0.0",
+  "title": "TechNet Claim",
+  "type": "object",
+  "required": ["claim_id", "claim_type", "claim", "confidence"],
+  "properties": {
+    "claim_id": { "type": "string", "pattern": "^[A-Za-z0-9_-]+$" },
+    "claim_type": { "enum": ["DEF", "NORM", "EMP", "TRL", "CAUS", "INF", "REC", "UNK"] },
+    "claim": { "type": "string", "minLength": 1 },
+    "scope": {
+      "type": "object",
+      "properties": {
+        "actor": { "type": ["string", "null"] },
+        "object": { "type": ["string", "null"] },
+        "industry": { "type": ["string", "null"] },
+        "period": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "trl": { "type": ["integer", "null"], "minimum": 1, "maximum": 9 },
+    "metric": { "type": ["string", "null"] },
+    "baseline": { "type": ["string", "null"] },
+    "evidence": { "type": "array", "items": { "type": "string" } },
+    "source_refs": { "type": "array", "items": { "type": "string" } },
+    "inference_rule": { "type": ["string", "null"] },
+    "alternative_explanations": { "type": "array", "items": { "type": "string" } },
+    "limitations": { "type": "array", "items": { "type": "string" } },
+    "confidence": { "enum": ["low", "medium", "high"] },
+    "verification_date": { "type": ["string", "null"], "format": "date" }
+  },
+  "additionalProperties": false
+}

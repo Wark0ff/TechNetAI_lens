@@ -1,0 +1,11 @@
+# Тексты отчётов НЕ хранятся в git (≈780 МБ, есть файлы до 40 МБ).
+# Они восстанавливаются из data/sources_inventory.json скриптом scripts/fetch_sources.
+sources/*.pdf
+sources/**/*.pdf
+sources/*.crdownload
+
+# Служебное
+scratchpad/
+*.tmp
+.DS_Store
+Thumbs.db

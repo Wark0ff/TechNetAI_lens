@@ -1,0 +1,87 @@
+{
+  "id": "technet_maturity_scale",
+  "status": "lens_defined",
+  "scope": "type_of_production_system_maturity_not_company_rating",
+  "note": "Опиши доминирующий уровень, диапазон и противоречащие признаки. Не вычисляй арифметический средний балл.",
+  "dimensions": [
+    {
+      "id": "design",
+      "ru": "Цифровое проектирование и моделирование",
+      "en": "Digital design and simulation"
+    },
+    {
+      "id": "plm",
+      "ru": "Управление жизненным циклом и данными",
+      "en": "Lifecycle and data management"
+    },
+    {
+      "id": "production",
+      "ru": "Производственные технологии",
+      "en": "Production technologies"
+    },
+    {
+      "id": "data_intelligence",
+      "ru": "Данные, интеграция и интеллект",
+      "en": "Data, integration and intelligence"
+    },
+    {
+      "id": "sovereignty_materials",
+      "ru": "Технологический суверенитет и материалы",
+      "en": "Technological sovereignty and materials"
+    }
+  ],
+  "levels": [
+    {
+      "level": "F5",
+      "ru": "Когнитивная самооптимизирующаяся фабрика: ИИ-управление и автономная адаптация",
+      "profile": [3, 3, 3, 3, 3],
+      "horizon": "foresight"
+    },
+    {
+      "level": "F4",
+      "ru": "Виртуальная фабрика: цифровой двойник производственной системы, распределённая сеть",
+      "profile": [3, 3, 2, 3, 2],
+      "horizon": "target"
+    },
+    {
+      "level": "F3",
+      "ru": "Умная фабрика: IIoT, MES/ERP, аналитика, роботизация, обратная связь эксплуатации",
+      "profile": [2, 2, 3, 3, 2],
+      "horizon": "target"
+    },
+    {
+      "level": "F2",
+      "ru": "Цифровая фабрика: сквозной PLM/PDM, CAM/CAAM, цифровые двойники изделий",
+      "profile": [2, 3, 2, 1, 1],
+      "horizon": "baseline_target"
+    },
+    {
+      "level": "F1",
+      "ru": "Цифровое проектирование: 3D CAD, отдельные CAE-расчёты, локальная автоматизация",
+      "profile": [1, 1, 1, 0, 1],
+      "horizon": "entry"
+    },
+    {
+      "level": "F0",
+      "ru": "Традиционное производство: 2D-документация, эмпирика, разрозненные ИТ",
+      "profile": [0, 0, 0, 0, 0],
+      "horizon": "baseline"
+    }
+  ],
+  "profile_legend": {
+    "0": "отсутствует или начальный",
+    "1": "фрагментарно",
+    "2": "системно на уровне контура",
+    "3": "сквозной, интегрированный, зрелый"
+  },
+  "trl_reference": {
+    "1-3": "фундаментальные исследования и концепция",
+    "4-6": "лабораторная и стендовая проверка, прототип",
+    "7-9": "испытания в реальных условиях, серийная готовность"
+  },
+  "known_lens_issues": [
+    "Уровни F3 и F4 не строго линейны: Умная и Виртуальная фабрики могут развиваться параллельно.",
+    "Высокий уровень по одному измерению (например, аддитивное производство) не поднимает систему в целом без цифровой связности и суверенитета."
+  ],
+  "usage_rule": "Report dominant level, plausible range, supporting evidence and contradictory features. Do not compute an automatic total score."
+}

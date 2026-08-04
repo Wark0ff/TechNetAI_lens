@@ -1,0 +1,13 @@
+# Текстовые файлы — LF в репозитории
+* text=auto eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.jsonld text eol=lf
+*.jsonl text eol=lf
+*.csv text eol=lf
+*.sh text eol=lf
+# PowerShell удобнее в CRLF
+*.ps1 text eol=crlf
+# Бинарные
+*.pdf binary

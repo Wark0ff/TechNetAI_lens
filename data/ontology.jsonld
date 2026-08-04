@@ -1,0 +1,278 @@
+{
+  "@context": {
+    "tn": "urn:technet:",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "relation": { "@id": "tn:relation", "@type": "@id" },
+    "source": { "@id": "tn:source", "@type": "@id" },
+    "target": { "@id": "tn:target", "@type": "@id" }
+  },
+  "@graph": [
+    {
+      "@id": "tn:technet",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Технет (направление НТИ)", "@language": "ru" },
+        { "@value": "TechNet (NTI direction)", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Кросс-рыночное и кросс-отраслевое направление НТИ, обеспечивающее технологическую поддержку высокотехнологичных отраслей за счёт передовых производственных технологий и Фабрик Будущего.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:apt",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Передовые производственные технологии", "@language": "ru" },
+        { "@value": "Advanced manufacturing technologies", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Интегрированный стек цифрового проектирования, управления жизненным циклом, производства, данных и материалов, дающий преимущество за счёт системной интеграции.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:factory_of_future",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Фабрика Будущего", "@language": "ru" },
+        { "@value": "Factory of the Future", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Целевая модель организации производства, объединяющая проектирование, производство и эксплуатацию единым цифровым контуром; реализуется как Цифровая, Умная и Виртуальная фабрики.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:digital_factory",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Цифровая фабрика", "@language": "ru" },
+        { "@value": "Digital Factory", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Сквозное цифровое проектирование и подготовка производства, цифровые двойники изделий, единый PLM-контур.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:smart_factory",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Умная фабрика", "@language": "ru" },
+        { "@value": "Smart Factory", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Автоматизация и роботизация, IIoT-сенсорика, MES/ERP, аналитика и обратная связь с эксплуатации.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:virtual_factory",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Виртуальная фабрика", "@language": "ru" },
+        { "@value": "Virtual Factory", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Цифровой двойник всей производственной системы и распределённая, географически разнесённая сеть.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:digital_twin",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Цифровой двойник", "@language": "ru" },
+        { "@value": "Digital twin", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Валидированная виртуальная модель изделия, процесса или производственной системы для проектирования, виртуальных испытаний и управления.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:digital_thread",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Цифровая нить", "@language": "ru" },
+        { "@value": "Digital thread", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Сквозная связность данных по всему жизненному циклу изделия.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:target_matrix",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Матрица целевых показателей и ресурсных ограничений", "@language": "ru" },
+        { "@value": "Target and resource-constraint matrix", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Методология системной увязки требований к разрабатываемому изделию через цифровые двойники.",
+        "@language": "ru"
+      },
+      "tn:status": "operational"
+    },
+    {
+      "@id": "tn:technology_sovereignty",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Технологический суверенитет", "@language": "ru" },
+        { "@value": "Technological sovereignty", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Способность владеть, эксплуатировать, воспроизводить и развивать критические технологии и средства производства.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:cognitive_autonomy",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Когнитивная автономия", "@language": "ru" },
+        { "@value": "Cognitive autonomy", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Национальные инженерные школы, методология, данные, стандарты и права на интеллектуальную собственность.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:subjectivity",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Субъектность промышленности", "@language": "ru" },
+        { "@value": "Industrial agency", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Способность самостоятельно проектировать, производить и развивать сложные изделия.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:cross_industry",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Кросс-отраслевой трансфер", "@language": "ru" },
+        { "@value": "Cross-industry transfer", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Перенос технологических решений между рынками НТИ и отраслями промышленности.",
+        "@language": "ru"
+      },
+      "tn:status": "canonical"
+    },
+    {
+      "@id": "tn:virtual_testing",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Виртуальные испытания", "@language": "ru" },
+        { "@value": "Virtual testing", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Проведение части испытаний на валидированных цифровых двойниках взамен дорогих натурных.",
+        "@language": "ru"
+      },
+      "tn:status": "operational"
+    },
+    {
+      "@id": "tn:additive",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Аддитивные технологии", "@language": "ru" },
+        { "@value": "Additive manufacturing", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Послойное изготовление изделий сложной геометрии, включая недоступные традиционным методам.",
+        "@language": "ru"
+      },
+      "tn:status": "operational"
+    },
+    {
+      "@id": "tn:iiot",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Промышленный интернет вещей", "@language": "ru" },
+        { "@value": "Industrial IoT", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Сеть промышленных датчиков и устройств, обеспечивающая сбор данных и обратную связь производства.",
+        "@language": "ru"
+      },
+      "tn:status": "operational"
+    },
+    {
+      "@id": "tn:new_materials",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Новые материалы", "@language": "ru" },
+        { "@value": "New materials", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Передовые сплавы и полимеры, композиционные материалы и метаматериалы вместе с их цифровыми моделями.",
+        "@language": "ru"
+      },
+      "tn:status": "operational"
+    },
+    {
+      "@id": "tn:trl",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "Уровень готовности технологии", "@language": "ru" },
+        { "@value": "Technology readiness level", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Шкала 1–9, характеризующая зрелость технологии от концепции до серийной готовности.",
+        "@language": "ru"
+      },
+      "tn:status": "operational"
+    },
+    {
+      "@id": "tn:cml_bench",
+      "@type": "tn:Concept",
+      "skos:prefLabel": [
+        { "@value": "CML-Bench®", "@language": "ru" },
+        { "@value": "CML-Bench®", "@language": "en" }
+      ],
+      "skos:definition": {
+        "@value": "Отечественная цифровая платформа для разработки и применения цифровых двойников (зарегистрированное обозначение).",
+        "@language": "ru"
+      },
+      "tn:status": "reference"
+    },
+
+    { "@id": "tn:rel_001", "@type": "tn:Relation", "source": "tn:technet", "relation": "tn:develops", "target": "tn:apt", "tn:status": "canonical" },
+    { "@id": "tn:rel_002", "@type": "tn:Relation", "source": "tn:technet", "relation": "tn:targets", "target": "tn:factory_of_future", "tn:status": "canonical" },
+    { "@id": "tn:rel_003", "@type": "tn:Relation", "source": "tn:factory_of_future", "relation": "tn:has_type", "target": "tn:digital_factory", "tn:status": "canonical" },
+    { "@id": "tn:rel_004", "@type": "tn:Relation", "source": "tn:factory_of_future", "relation": "tn:has_type", "target": "tn:smart_factory", "tn:status": "canonical" },
+    { "@id": "tn:rel_005", "@type": "tn:Relation", "source": "tn:factory_of_future", "relation": "tn:has_type", "target": "tn:virtual_factory", "tn:status": "canonical" },
+    { "@id": "tn:rel_006", "@type": "tn:Relation", "source": "tn:digital_factory", "relation": "tn:relies_on", "target": "tn:digital_twin", "tn:status": "canonical" },
+    { "@id": "tn:rel_007", "@type": "tn:Relation", "source": "tn:digital_twin", "relation": "tn:enables", "target": "tn:virtual_testing", "tn:status": "operational" },
+    { "@id": "tn:rel_008", "@type": "tn:Relation", "source": "tn:digital_twin", "relation": "tn:organized_by", "target": "tn:target_matrix", "tn:status": "operational" },
+    { "@id": "tn:rel_009", "@type": "tn:Relation", "source": "tn:apt", "relation": "tn:connected_by", "target": "tn:digital_thread", "tn:status": "canonical" },
+    { "@id": "tn:rel_010", "@type": "tn:Relation", "source": "tn:apt", "relation": "tn:requires", "target": "tn:technology_sovereignty", "tn:status": "canonical" },
+    { "@id": "tn:rel_011", "@type": "tn:Relation", "source": "tn:apt", "relation": "tn:requires", "target": "tn:cognitive_autonomy", "tn:status": "canonical" },
+    { "@id": "tn:rel_012", "@type": "tn:Relation", "source": "tn:technology_sovereignty", "relation": "tn:enables", "target": "tn:subjectivity", "tn:status": "canonical" },
+    { "@id": "tn:rel_013", "@type": "tn:Relation", "source": "tn:cognitive_autonomy", "relation": "tn:enables", "target": "tn:subjectivity", "tn:status": "canonical" },
+    { "@id": "tn:rel_014", "@type": "tn:Relation", "source": "tn:technet", "relation": "tn:uses_mechanism", "target": "tn:cross_industry", "tn:status": "canonical" },
+    { "@id": "tn:rel_015", "@type": "tn:Relation", "source": "tn:smart_factory", "relation": "tn:relies_on", "target": "tn:iiot", "tn:status": "operational" },
+    { "@id": "tn:rel_016", "@type": "tn:Relation", "source": "tn:apt", "relation": "tn:includes", "target": "tn:additive", "tn:status": "taxonomy" },
+    { "@id": "tn:rel_017", "@type": "tn:Relation", "source": "tn:apt", "relation": "tn:depends_on", "target": "tn:new_materials", "tn:status": "operational" },
+    { "@id": "tn:rel_018", "@type": "tn:Relation", "source": "tn:digital_twin", "relation": "tn:developed_on", "target": "tn:cml_bench", "tn:status": "reference" },
+    { "@id": "tn:rel_019", "@type": "tn:Relation", "source": "tn:virtual_testing", "relation": "tn:reduces", "target": "tn:trl", "tn:status": "note", "skos:note": "Виртуальные испытания ускоряют повышение TRL, но не заменяют обязательную натурную верификацию." }
+  ]
+}
