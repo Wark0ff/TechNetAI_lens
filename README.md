@@ -26,23 +26,28 @@
 
 ## Отчёты (папка sources/)
 
-Тексты отчётов (~780 МБ, 86 файлов) **намеренно исключены из git** (`.gitignore`).
-Они восстанавливаются одной командой из `data/sources_inventory.json`:
+Тексты отчётов (~780 МБ, 86 файлов) хранятся в репозитории через **Git LFS**
+(см. `.gitattributes`, строка `sources/*.pdf filter=lfs …`).
+
+**Важно:** чтобы получить сами PDF при клонировании, нужен установленный
+[git-lfs](https://git-lfs.com):
 
 ```bash
-# Windows
-powershell -ExecutionPolicy Bypass -File scripts/fetch_sources.ps1
-# Linux/Mac/Git Bash
-bash scripts/fetch_sources.sh
+git lfs install
+git clone <repo-url>        # PDF подтянутся автоматически через LFS
 ```
 
+Без git-lfs вместо PDF скачаются текстовые «указатели» LFS.
+
+Каталоги:
 - `data/reports_catalog.json` — каталог всех 86 отчётов (метаданные, темы, годы).
-- `data/reports_index.json` — 4 отчёта 2026 г. с разобранным текстом (тезисы + точные ссылки для цитирования).
+- `data/reports_index.json` — отчёты с разобранным текстом (тезисы + точные ссылки).
 - `data/sources_inventory.json` — имя файла → исходный URL → размер.
 
-Если нужно, чтобы PDF **хранились в git**, — уберите строки `sources/*.pdf` из
-`.gitignore` (учтите: репозиторий станет ~780 МБ, отдельные файлы до 40 МБ; для
-GitHub лучше подключить Git LFS).
+**Резервный способ** (если LFS-квота исчерпана или файла нет): докачать отчёты с
+сайта-первоисточника по URL из инвентаря —
+`powershell -ExecutionPolicy Bypass -File scripts/fetch_sources.ps1`
+(или `bash scripts/fetch_sources.sh`).
 
 ## Статус и оговорки
 

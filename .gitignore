@@ -1,7 +1,5 @@
-# Тексты отчётов НЕ хранятся в git (≈780 МБ, есть файлы до 40 МБ).
-# Они восстанавливаются из data/sources_inventory.json скриптом scripts/fetch_sources.
-sources/*.pdf
-sources/**/*.pdf
+# PDF отчётов хранятся в git через Git LFS (см. .gitattributes).
+# Недокачанные файлы игнорируем.
 sources/*.crdownload
 
 # Служебное
