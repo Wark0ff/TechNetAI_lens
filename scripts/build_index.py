@@ -23,6 +23,16 @@ if os.path.exists(prev_path):
         if f and r.get("key_theses"):
             curated[f] = {"key_theses": r["key_theses"], "locators": r.get("locators", {}), "source_id": r["source_id"]}
 
+# файлы, чей текст получен OCR (возможны мелкие ошибки распознавания)
+OCR_FILES = {
+    "2022_1220_Rejting_kompanij_Tekhnet_zashchishchennyj.pdf",
+    "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_RYNKA_VENCHURNOGO_FINANSIROVANIYA_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+    "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_GOSUDARSTVENNYH_PROGRAMM_I_MER_PODDERZHKI_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+    "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_PEREDOVYH_NAUCHNO-TEKHNOLOGICHESKIH_PROEKTOV_VEDUSHCHIH_ROSSIJSKIH_I_ZARUBEZHNYH_NAUCHNYH_.pdf",
+    "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_STARTAP-RAZRABOTOK_NA_BAZE_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
+    "2022_1229_Otchet_Additivnye_tekhnologii_zashchishchennyj.pdf",
+}
+
 def clean(s):
     s = re.sub(r"[ \t]+", " ", s)
     s = re.sub(r"\n{2,}", "\n", s)
@@ -103,7 +113,8 @@ for r in sorted(catalog["reports"], key=lambda x: (-(x["year"] or 0), x["file"])
         "toc": [] if image_based else extract_toc(txt),
         "key_theses": cur["key_theses"] if cur else [],
         "locators": cur["locators"] if cur else {},
-        "depth": "curated" if cur else ("auto" if not image_based else "metadata_only"),
+        "ocr": f in OCR_FILES,
+        "depth": "curated" if cur else ("metadata_only" if image_based else ("auto_ocr" if f in OCR_FILES else "auto")),
     }
     reports.append(entry)
 
@@ -114,12 +125,14 @@ out = {
     "depth_legend": {
         "curated": "разобрано вручную: точные тезисы и локаторы",
         "auto": "есть полный текст (text_file) + авто-аннотация и оглавление",
-        "metadata_only": "графический PDF без текстового слоя (нужен OCR)"
+        "auto_ocr": "текст получен OCR (возможны мелкие ошибки распознавания)",
+        "metadata_only": "текст не извлечён"
     },
     "total": len(reports),
     "counts": {
         "curated": sum(1 for r in reports if r["depth"] == "curated"),
         "auto": sum(1 for r in reports if r["depth"] == "auto"),
+        "auto_ocr": sum(1 for r in reports if r["depth"] == "auto_ocr"),
         "metadata_only": sum(1 for r in reports if r["depth"] == "metadata_only"),
     },
     "reports": reports,

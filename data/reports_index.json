@@ -5,13 +5,15 @@
   "depth_legend": {
     "curated": "разобрано вручную: точные тезисы и локаторы",
     "auto": "есть полный текст (text_file) + авто-аннотация и оглавление",
-    "metadata_only": "графический PDF без текстового слоя (нужен OCR)"
+    "auto_ocr": "текст получен OCR (возможны мелкие ошибки распознавания)",
+    "metadata_only": "текст не извлечён"
   },
   "total": 86,
   "counts": {
     "curated": 4,
     "auto": 76,
-    "metadata_only": 6
+    "auto_ocr": 6,
+    "metadata_only": 0
   },
   "reports": [
     {
@@ -39,6 +41,7 @@
         "опрос_по_материалам_БВС": "с.9-10 (результаты опроса ИЦ Технет)",
         "новости_СПбПУ_CML": "с.11-12"
       },
+      "ocr": false,
       "depth": "curated"
     },
     {
@@ -79,6 +82,7 @@
         "глава_4_библиометрия_и_патенты": "выводы ~с.84-90; Таблицы 13-14",
         "глава_5_цифровые_двойники_композитов": "с.93-106 (концепция ЦДКМ, архитектура ВИП ЦДКМ, Таблицы 15-16)"
       },
+      "ocr": false,
       "depth": "curated"
     },
     {
@@ -116,6 +120,7 @@
         "перспективы": "по тексту: гибридные методы, ML, цифровые двойники",
         "note": "Точные номера разделов/страниц уточнить по оглавлению PDF (извлечение TOC затруднено многоколоночной вёрсткой)."
       },
+      "ocr": false,
       "depth": "curated"
     },
     {
@@ -141,6 +146,7 @@
         "введение_и_хронология": "с.1-2",
         "итоги_программы_ИЦ_2024-2026": "с.2+"
       },
+      "ocr": false,
       "depth": "curated"
     },
     {
@@ -165,6 +171,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -188,6 +195,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -212,6 +220,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -251,6 +260,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -275,6 +285,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -293,6 +304,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -314,6 +326,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -334,6 +347,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -350,6 +364,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -374,6 +389,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -413,6 +429,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -431,6 +448,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -452,6 +470,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -473,6 +492,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -494,6 +514,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -512,6 +533,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -542,6 +564,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -562,6 +585,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -578,6 +602,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -608,6 +633,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -624,6 +650,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -652,6 +679,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -686,6 +714,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -717,6 +746,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -742,6 +772,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -766,6 +797,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -790,6 +822,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -814,6 +847,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -853,6 +887,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -881,6 +916,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -901,6 +937,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -921,6 +958,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -946,6 +984,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -985,6 +1024,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1003,6 +1043,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1021,6 +1062,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1045,6 +1087,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1075,6 +1118,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1096,6 +1140,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1119,6 +1164,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1141,6 +1187,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1159,6 +1206,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1177,6 +1225,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1195,111 +1244,155 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
       "source_id": "SRC-TN-2022-2022-1220-rejting-kompanij-tekhnet-zashchishchen",
       "file": "2022_1220_Rejting_kompanij_Tekhnet_zashchishchennyj.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1220_Rejting_kompanij_Tekhnet_zashchishchennyj.txt",
       "year": 2022,
       "category": "report",
       "topics": [
         "рейтинг компаний"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1220_Rejting_kompanij_Tekhnet_zashchishchennyj.pdf",
-      "chars": 202,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 90530,
+      "image_based": false,
+      "abstract": "Разработка и широкое применение передовых производственных технологий является ключевым\nусловием процессов преобразования высокотехнологичной промышленности в цифровую. В кон-\nтексте происходящих глобальных технологических изменений критически важными являются ис-\nследование условий развития и распространения передовых производственных технологий, анализ\nотечественных и зарубежных научно-технических разработок, изучение российского и междуна-\nродного рынков, а также выявление ключевых игроков — организаций-лидеров, определяющих\nтраекторию развития высокотехнологичной промышленности.\nАссоциация разработчиков и эксплуатантов передовых производственных технологий (Ассоциация\n«Технет») является профессиональным объединением научных, образовательных и промышленных\nорганизаций и их представителей, осуществляющих исследования, разработку, производство и\nэксплуатацию технологических решений в сфере передовых производственных технологий с целью\nобеспечения конкурентоспособности отечественных компаний-лидеров на глобальных рынках в\nвысокотехнологичных отраслях промышленности.\nВ целях обеспечения развития направления «Технет» НТИ на базе Ассоциации был создан Ин-\nфраструктурный центр по разви",
+      "toc": [
+        "ГЛАВА 1. РЕЙТИНГ МИРОВЫХ КОМПАНИЙ-ЛИДЕРОВ (ЦЕНТРОВ КОМПЕТЕНЦИИ) В СФЕРЕ",
+        "ГЛАВА 2. РЕЙТИНГ РОССИЙСКИХ КОМПАНИЙ-ЛИДЕРОВ (ЦЕНТРОВ КОМПЕТЕНЦИЙ) В",
+        "СПИСОК РИСУНКОВ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "ocr": true,
+      "depth": "auto_ocr"
     },
     {
       "source_id": "SRC-TN-2022-2022-1226-dajdzhest-2-klyuchevye-sobytiya-rynka-",
       "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_RYNKA_VENCHURNOGO_FINANSIROVANIYA_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_RYNKA_VENCHURNOGO_FINANSIROVANIYA_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.txt",
       "year": 2022,
       "category": "digest",
       "topics": [
         "стартапы/венчур"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_RYNKA_VENCHURNOGO_FINANSIROVANIYA_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
-      "chars": 51,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 13358,
+      "image_based": false,
+      "abstract": "Технет\nНациональная\nтехнологическая\nинициатива\nДайджест ключевых событий и проектов:\nиюль- декабрь 2022\nКЛЮЧЕВЫЕ СОБЫТИЯ РЫНКА ВЕНЧУРНОГО\nФИНАНСИРОВАНИЯ ПЕРЕДОВЫХ\nПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИИ\nЛ ‘К Технет\nНАЦИОНАЛЬНАЯ SAS \\\nТЕХНОЛОГИЧЕСКАЯ FON + — Национальная Передовые\n4 ИНИЦИАТИВА SAY\n. 1 ва | и тива\nОБОЗНАЧЕНИЯ И COKPALUEHMA oe ececseesessessesssecsessecsscssessessscsuesseessccsscssecsscsuesuscasessecuesssecnsesueeasensesseensents 3\nОБЗОР СОБЫТИЙ РЫНКА ВЕНЧУРНОГО DUHAHCUPOBAHUGD .....cccssssssscsssssssssssssesssessssssesessesssssseeeees 4\n== ===\nна |\nCo\nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\nРаунды финансирования — этапы финансирования стартапа. Инвестиции в стартап считаются\nрискованными, поэтому финансирование проекта разбивается на этапы — это минимизирует риск\nи позволяет оценить промежуточные резу",
+      "toc": [
+        "КЛЮЧЕВЫЕ СОБЫТИЯ РЫНКА ВЕНЧУРНОГО",
+        "ФИНАНСИРОВАНИЯ ПЕРЕДОВЫХ",
+        "ПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИИ",
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ОБЗОР СОБЫТИЙ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "ocr": true,
+      "depth": "auto_ocr"
     },
     {
       "source_id": "SRC-TN-2022-2022-1226-dajdzhest-2-klyuchevye-sobytiya-v-obla",
       "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_GOSUDARSTVENNYH_PROGRAMM_I_MER_PODDERZHKI_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_GOSUDARSTVENNYH_PROGRAMM_I_MER_PODDERZHKI_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.txt",
       "year": 2022,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_GOSUDARSTVENNYH_PROGRAMM_I_MER_PODDERZHKI_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
-      "chars": 123,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 25865,
+      "image_based": false,
+      "abstract": "Технет\nНациональная\nтехнологическая\nинициатива\nДайджест ключевых событий и проектов:\nиюль- декабрь 2022\nКЛЮЧЕВЫЕ СОБЫТИЯ В ОБЛАСТИ\nГОСУДАРСТВЕННЫХ ПРОГРАММ И МЕР\nПОДДЕРЖКИ ПЕРЕДОВЫХ\nПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИЙ\nНАЦИОНАЛЬНАЯ\nТЕХНОЛОГИЧЕСКАЯ\n| ИНИЦИАТИВА\nМосква\n2022\nОГЛАВЛЕНИЕ\nОБОЗНАЧЕНИЯ И COKPALUEHVA uw... eseecseesseecsseecsseeessnecsseessnessssessseesssesssmeessueesseessuessseessseessesssnecsssecsseeesseesseess 3\nОБЗОР СОБЫТИЙ В ОБЛАСТИ ГОСУДАРСТВЕННЫХ ПРОГРАММ И MEP ПОДДЕРЖКИ\nПЕРЕДОВЫХ ПРОИЗВОДСТВЕННЫХ TEXHOMOLMM....csscssssssssssssssssssecsssesesssesssssesssssesssssenssessansesessts 4\n2)\nна |\nCo\nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\nAl - Artificial Intelligence, искусственный интеллект\nILDMC -— Illinois Defense Manufacturing Consortium, Иллинойский оборонный производственный\nконсорциум\nloT — Interne",
+      "toc": [
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ОБЗОР СОБЫТИЙ В ОБЛАСТИ ГОСУДАРСТВЕННЫХ ПРОГРАММ И МЕР",
+        "ПОДДЕРЖКИ ПЕРЕДОВЫХ ПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИЙ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "ocr": true,
+      "depth": "auto_ocr"
     },
     {
       "source_id": "SRC-TN-2022-2022-1226-dajdzhest-2-klyuchevye-sobytiya-v-obla",
       "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_PEREDOVYH_NAUCHNO-TEKHNOLOGICHESKIH_PROEKTOV_VEDUSHCHIH_ROSSIJSKIH_I_ZARUBEZHNYH_NAUCHNYH_.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_PEREDOVYH_NAUCHNO-TEKHNOLOGICHESKIH_PROEKTOV_VEDUSHCHIH_ROSSIJSKIH_I_ZARUBEZHNYH_NAUCHNYH_.txt",
       "year": 2022,
       "category": "digest",
       "topics": [],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_PEREDOVYH_NAUCHNO-TEKHNOLOGICHESKIH_PROEKTOV_VEDUSHCHIH_ROSSIJSKIH_I_ZARUBEZHNYH_NAUCHNYH_.pdf",
-      "chars": 65,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 17348,
+      "image_based": false,
+      "abstract": "Технет\nНациональная\nтехнологическая\nинициатива\nДайджест ключевых событий и проектов:\nиюль-декабрь 2022\nКЛЮЧЕВЫЕ СОБЫТИЯ В ОБЛАСТИ ПЕРЕДОВЫХ\nНАУЧНО-ТЕХНОЛОГИЧЕСКИХ ПРОЕКТОВ\nВЕДУЩИХ РОССИИСКИХ И ЗАРУБЕЖНЫХ\nТехнет\nНациональная Национальная Передовые\nтехнологическая инициатива технологическая | производственные\n- инициатива\n'ространство возможного\nМосква\n2022\nОГЛАВЛЕНИЕ\nОБОЗНАЧЕНИЯ И COKPALUEHVA uw... eseecseesseecsseecsseeessnecsseessnessssessseesssesssmeessueesseessuessseessseessesssnecsssecsseeesseesseess 3\nОБЗОР СОБЫТИЙ В ОБЛАСТИ ПЕРЕДОВЫХ НАУЧНО-ТЕХНОЛОГИЧЕСКИХ ПРОЕКТОВ ВЕДУЩИХ\nРОССИЙСКИХ И ЗАРУБЕЖНЫХ НАУЧНЫХ OPFAHSALIM .....sssssssssssesssesssssesnsesssssessssseessssseessssesnsee 4\n2)\nна |\nCo\nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\nAl (ИИ) - Artificial Intelligence (искусственный интеллект)\nРОМ — Fused",
+      "toc": [
+        "ОБЗОР СОБЫТИЙ В ОБЛАСТИ ПЕРЕДОВЫХ НАУЧНО-ТЕХНОЛОГИЧЕСКИХ ПРОЕКТОВ ВЕДУЩИХ",
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ОБЗОР СОБЫТИЙ В ОБЛАСТИ ПЕРЕДОВЫХ НАУЧНО-ТЕХНОЛОГИЧЕСКИХ",
+        "ПРОЕКТОВ ВЕДУЩИХ РОССИЙСКИХ И ЗАРУБЕЖНЫХ НАУЧНЫХ",
+        "ОРГАНИЗАЦИЙ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "ocr": true,
+      "depth": "auto_ocr"
     },
     {
       "source_id": "SRC-TN-2022-2022-1226-dajdzhest-2-klyuchevye-sobytiya-v-obla",
       "file": "2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_STARTAP-RAZRABOTOK_NA_BAZE_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_STARTAP-RAZRABOTOK_NA_BAZE_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.txt",
       "year": 2022,
       "category": "digest",
       "topics": [
         "стартапы/венчур"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/27/2022_1226_Dajdzhest_2_KLYUCHEVYE_SOBYTIYA_V_OBLASTI_STARTAP-RAZRABOTOK_NA_BAZE_PEREDOVYH_PROIZVODSTVENNYH_TEKHNOLOGIJ.pdf",
-      "chars": 25,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 8919,
+      "image_based": false,
+      "abstract": "Технет\nНациональная\nтехнологическая\nинициатива\nДайджест ключевых событий и проектов:\nиюль-декабрь 2022\nКЛЮЧЕВЫЕ СОБЫТИЯ В ОБЛАСТИ CTAPTATI-\nРАЗРАБОТОК НА БАЗЕ ПЕРЕДОВЫХ\nПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИИ\n2 ‘о Технет\nНАЦИОНАЛЬНАЯ SAS SS\nТЕХНОЛОГИЧЕСКАЯ FON + — Национальная Передовые\nи ИНИЦИАТИВА SAY TexHon огическая | п роизводственные\nx 1 Ej инициатива | технологии\nМосква\n2022\nна |\nco\nОБОЗНАЧЕНИЯ И COKPALUEHVA uw... ec essseesssecssessseccssnecssscssnecssscssnscssnecsssecsssscssnesssscssnecsusessnesssnesssecssnessseessness 3\nОБЗОР СОБЫТИЙ РЫНКА CTAPTATI-PASPABOTOK. ..scssccssssssssssssssssssssssssssussssssnsesusssseussssnssssessnstese 4\n== ===\nна |\nCo\nОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ\nAl (Artificial Intelligence) — технологии искусственного интеллекта.\nSaaS (Software as a Service) — одна из форм облачных ",
+      "toc": [
+        "РАЗРАБОТОК НА БАЗЕ ПЕРЕДОВЫХ",
+        "ПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИИ",
+        "ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ",
+        "ОБЗОР СОБЫТИЙ РЫНКА СТАРТАП-РАЗРАБОТОК"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "ocr": true,
+      "depth": "auto_ocr"
     },
     {
       "source_id": "SRC-TN-2022-2022-1229-otchet-additivnye-tekhnologii-zashchis",
       "file": "2022_1229_Otchet_Additivnye_tekhnologii_zashchishchennyj.pdf",
-      "text_file": null,
+      "text_file": "sources_text/2022_1229_Otchet_Additivnye_tekhnologii_zashchishchennyj.txt",
       "year": 2022,
       "category": "report",
       "topics": [
         "аддитивные технологии"
       ],
       "source_url": "https://assets.fea.ru/uploads/fea/news/2022/12/31/2022_1229_Otchet_Additivnye_tekhnologii_zashchishchennyj.pdf",
-      "chars": 353,
-      "image_based": true,
-      "abstract": null,
-      "toc": [],
+      "chars": 164933,
+      "image_based": false,
+      "abstract": "Аддитивное производство — направление деятельности, включающее в себя разработку и произ-\nводство аддитивного оборудования, комплектующих, материалов для ЗО-печати и специализиро-\nванного программного обеспечения, а также оказания инжиниринговых услуг и НИОКР в сфере\nаддитивных технологий [1].\nАктуальность применения аддитивных технологий (АТ) обусловлена возможностью с их помощью\nсущественно сокращать время от разработки изделия до выпуска готовой продукции, снизить ма-\nтериалоемкость продукции, потребление энергоресурсов, а также возможностью изготовления из-\nделий с улучшенными свойствами и сложных конструкций, которые ранее не представлялось воз-\nможным производить из-за технологических ограничений [1].\nЦелью данной работы является актуализация и обобщение информации по мировому и россий-\nскому рынку аддитивных технологий, выявление трендов, проведение оценок объёма рынка и его\nпрогнозных значений. В работе приводится описание основных производителей оборудования 30-\nпечати и материалов, а также предоставляются оценки финансовых показателей игроков рынка.\nРассматриваются известные сделки M&A, приводится описание нормативно-правового регулиро-\nвания и мер поддержки отрасли АТ.\nМ",
+      "toc": [
+        "1.4. Жизненный цикл отрасли / рынка аддитивных технологий, стадия зрелости",
+        "ГЛАВА 2. НОРМАТИВНО-ПРАВОВОЕ — РЕГУЛИРОВАНИЕ, В TOM ЧИСЛЕ — АНАЛИЗ",
+        "ГОСУДАРСТВЕННЫХ ПРОГРАММ ПОДДЕРЖКИ ПО НИРАМ И НИОКРАМ ПО ИССЛЕДУЕМОЙ",
+        "ГЛАВА 3. ОСНОВНЫЕ ИГРОКИ РЫНКА АТ: КОЛИЧЕСТВО, РЫНОЧНЫЕ ДОЛИ, ОПИСАНИЕ",
+        "ГЛАВА 4. | ОЦЕНКА УСПЕШНЫХ БИЗНЕС-МОДЕЛЕЙ И ЛУЧШИХ ПРАКТИК............нненннннннннннннные 61",
+        "4.2 Новые крупные проекты: участники, планы, суммы привлеченных инвестиций",
+        "ГЛАВА 5. ОСНОВНЫЕ ТЕХНОЛОГИИ, ПРИМЕНЯЕМЫЕ НА PbIHKE АДДИТИВНЫХ",
+        "ГЛАВА 6. ОБЗОР КЛЮЧЕВЫХ НАУЧНЫХ РАЗРАБОТОК В РОССИИ И МИРЕ ПО РЕЗУЛЬТАТАМ",
+        "БИБЛИОМЕТРИЧЕСКОГО И ПАТЕНТНОГО АНАЛИЗА, А ТАКЖЕ ПОКАЗАТЕЛИ ПО КОМПАНИЯМ",
+        "имеющих экспортную выручку. Объём экспортной выручки компаний HIV. uu",
+        "СПИСОК РИСУНКОВ"
+      ],
       "key_theses": [],
       "locators": {},
-      "depth": "metadata_only"
+      "ocr": true,
+      "depth": "auto_ocr"
     },
     {
       "source_id": "SRC-TN-2021-2021-1226-daidzhest-venchur-chast-1",
@@ -1320,6 +1413,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1341,6 +1435,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1362,6 +1457,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1382,6 +1478,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1410,6 +1507,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1433,6 +1531,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1454,6 +1553,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1475,6 +1575,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1493,6 +1594,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1511,6 +1613,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1532,6 +1635,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1556,6 +1660,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1577,6 +1682,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1598,6 +1704,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1616,6 +1723,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1634,6 +1742,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1654,6 +1763,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1674,6 +1784,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1692,6 +1803,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1710,6 +1822,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1728,6 +1841,7 @@
       "toc": [],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1747,6 +1861,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1766,6 +1881,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1785,6 +1901,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1803,6 +1920,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1821,6 +1939,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1842,6 +1961,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1863,6 +1983,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1882,6 +2003,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1901,6 +2023,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1921,6 +2044,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     },
     {
@@ -1941,6 +2065,7 @@
       ],
       "key_theses": [],
       "locators": {},
+      "ocr": false,
       "depth": "auto"
     }
   ]
