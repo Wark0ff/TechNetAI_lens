@@ -58,6 +58,13 @@
     "prompts/task_templates.md",
     "schemas/analysis_output.schema.json",
     "schemas/claim.schema.json",
+    "scripts/build_index.py",
+    "scripts/fetch_sources.ps1",
+    "scripts/fetch_sources.sh",
     "sources/README.md"
-  ]
+  ],
+  "generated_dirs": {
+    "sources": "86 PDF отчётов (Git LFS)",
+    "sources_text": "86 .txt — текстовый слой отчётов для RAG (генерируется pdftotext)"
+  }
 }
