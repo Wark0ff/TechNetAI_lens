@@ -1,0 +1,311 @@
+Источник: wombo.art по запросу: advanced manufacturing, venture
+Дайджест ключевых событий и проектов: январь-июнь 2021
+КЛЮЧЕВЫЕ СОБЫТИЯ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ ПЕРЕДОВЫХ ПРОИЗВОДСТВЕННЫХ ТЕХНОЛОГИЙ
+Подготовлено Инфраструктурным центром «Технет» НТИ Москва 2021
+
+ОГЛАВЛЕНИЕ ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ......................................................................................... 3 ОБЗОР СОБЫТИЙ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ.................................... 4
+2
+
+ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ SaaS (software as a service) – программное обеспечение как услуга. M2M (machine to machine) – межмашинное взаимодействие.
+3
+
+ОБЗОР СОБЫТИЙ РЫНКА ВЕНЧУРНОГО ФИНАНСИРОВАНИЯ
+
+Январь 2021: Agile Robots привлекла 130 млн юаней
+
+Источники:
+• https://www.crunchbase.com /organization/agilerobots/company_financials
+
+Agile Robots – это спин-офф German Aerospace Center. Стартап преодолевает разрыв между искусственным интеллектом и робототехникой, производя роботов с силовой чувствительностью и визуальным интеллектом. В раунде B Agile Robots привлекла 130 млн юаней от 6 инвесторов, среди которых Sequoia Capital China, Hillhouse Capital Group, Linear Venture, New Hope Sichuan Venture Capital Fund, BOCOM International.
+
+Январь 2021: Lacework привлекла 525 млн долларов
+
+Источники:
+• https://www.crunchbase.com /organization/lacework/comp any_financials
+
+Lacework – поставщик платформы кибербезопасности для облака. В январе 9 инвесторов, среди которых Tiger Global Management, Coatue, Sutter Hill Ventures, Dragoneer Investment Group, D1 Capital Partners, проинвестировали в компанию 525 млн долларов.
+
+Источники:
+
+Январь 2021: Molecula привлекла 17,6 млн долларов
+4
+
+• https://www.molecula.com/n Molecula – провайдер аналитических решений для
+
+ews-and-press/molecula- Интернета вещей.
+
+secures-17-6-million-in- В январе компания привлекла 17,6 млн долларов в
+
+series-a-funding-to-
+
+раунде A от Drive Capital, TTV Capital, Tensility.
+
+democratize-machine-scale-
+
+analytics-and-ai/
+
+Январь 2021: AlphaICs привлекла 8 млн долларов
+
+Источники:
+• https://economictimes.indiati mes.com/tech/funding/alphai cs-raises-8-million-infunding-led-by-endiyapartners-emeraldtechnologyventures/articleshow/80364 042.cms?utm_source=conte ntofinterest&utm_medium=t ext&utm_campaign=cppst
+
+AlphaICs, стартап, который проектирует и разрабатывает наборы микросхем для обработки рабочих нагрузок ИИ. В январе компания привлекла 8 млн долларов в рамках раунда B. Основными инвесторами выступили Endiya Partners и Emerald Technology Ventures. Компания заявила, что это финансирование поможет вывести на рынок их первый сопроцессор логического вывода для приложений машинного зрения с требованиями к низкой задержке.
+
+Февраль 2021: Black Lake Technologies привлекла 500 млн юань
+
+5
+
+Источники:
+• https://www.caixinglobal.com /2021-02-23/industrialsoftware-startup-eyessoutheast-asia-with-latestfunding-101666243.html
+• https://www.crunchbase.com /search/principal.investors/fi eld/funding_round.has_fundi ng_round.forward/num_inve stors/blacklaketechnologies-series-c-391bc609
+• https://pitchbook.com/profile s/company/174410-38
+
+Black Lake Technologies — это SaaS стартап, который
+
+создает системы управления производством.
+
+Платформа умного производства на основе данных
+
+интегрируется с производственными объектами и
+
+оборудованием,
+
+помогая
+
+сотрудникам
+
+взаимодействовать в цифровом формате, отслеживать
+
+данные, извлекать аналитику и принимать решения.
+
+Решения компании позволяют производственным
+
+предприятиям
+
+сократить
+
+стандартные
+
+производственные циклы на 35% и повысить
+
+эффективность на 22%. при снижении
+
+производственных затрат.
+
+Black Lake привлекла 500 млн юаней (77 млн
+
+долларов) в раунде серии C в феврале. В раунде
+
+участвовало 7 инвесторов, среди них GGV Capital,
+
+ZhenFund, Temasek Holdings, GSR Ventures,
+
+Bertelsmann Asia Investments.
+
+Февраль 2021: Locus Robotics привлекла 150 млн долларов
+
+Источники:
+• https://www.logisticsbusiness. com/materials-handlingwarehousing/locus-roboticsfunding/
+
+Locus Robotics производит автономных мобильных роботов для складов. В феврале компания получила инвестиции раунда E в размере 150 млн долларов. Среди инвесторов были Tiger Global Management, BOND, Scale Venture Partners, Prologis Ventures, Prologis.
+
+Февраль 2021: SecuriThings привлекла 14 млн долларов
+
+Источники:
+
+SecuriThings предлагает решения для управления устройствами Интернета вещей.
+6
+
+• https://techcrunch.com/202 1/02/10/securithingssnares-14m-series-a-tokeep-edge-devices-undercontrol/
+
+В феврале компания привлекла 14 млн долларов от Firstime VC и бизнес-ангелов в рамках раунда A.
+
+Февраль 2021: Altizon привлекла 1 млн долларов
+
+Источники:
+• https://www.businessstandard.com/article/compa nies/tvs-motor-to-investadditional-1-mn-in-usbased-altizon-viasingapore-arm121020301481_1.html
+
+Altizon специализируется на промышленном Интернете вещей для производственных предприятий. В феврале TVS Motor Singapore проинвестировала в компанию 1 млн долларов. Сделка поможет продвинуть цифровую трансформацию в TVS.
+
+Март 2021: Cylera привлекла 17 млн долларов
+
+Источники:
+• https://www.businesswire.co m/news/home/2021031800 5171/en/Cylera-Announces17-Million-in-TotalFunding-Led-by-ConcordHealth-Partners-MaverickVentures
+
+Cylera предлагает решения для кибербезопасности. В марте компания привлекла 17 млн долларов от Concord Health Partners, Maverick Ventures, Contour Venture Partners, Two Sigma Ventures, Dreamit Ventures, Great Oaks Venture Capital, Red Bear Angels, Samsung NEXT в рамках раунда А.
+
+Апрель 2021: CloudMinds привлекла 1 млрд юаней
+
+7
+
+Источники:
+• https://www.robotics247.co m/article/chinese_service_ro botics_startup_cloudminds_r aises_150m_in_series_b_fun ding
+
+CloudMinds – стартап, который фокусируется на исследованиях и разработках технологий облачной робототехники. В апреле этого года в раунде B компания привлекла 1 млрд юаней (153 млн долларов) от компании Guosheng Group.
+
+Апрель 2021: Chain.io привлекла 5 млн долларов
+
+Источник:
+• https://www.globenewswire. com/newsrelease/2021/04/16/22116 70/0/en/Chain-io-Secures5M-Round-of-Funding.html
+
+Chain.io – облачная платформа интеграции цепочки поставок, которая объединяет лучшие в своем классе инструменты для обеспечения прозрачности данных в разных системах. В апреле компания привлекла 5 млн долларов от Grand Ventures, Mercury, Honeywell Ventures, Engage.
+
+Апрель 2021: Seeq привлекла 50 млн долларов
+
+Источники:
+• https://www.prnewswire.co m/news-releases/seeqannounces-50-millionseries-c-funding-roundled-by-insight-partners301267945.html
+
+Seeq – производитель программного обеспечения для расширенной аналитики в области промышленного Интернета вещей. В апреле Insight Partners. The round includes participation from existing investors Altira Group, Chevron Technology Ventures, Cisco Investments, Saudi Aramco Energy Ventures, Second Avenue Partners проинвестировали 50 млн долларов в раунде C.
+
+Апрель 2021: Memfault привлекла 8,5 млн долларов
+
+Источники:
+• https://memfault.com/news/ memfault-raises-8-5m-inseries-a-funding-toexpand-the-first-end-to-
+
+Memfault – поставщик облачной платформы для мониторинга, обновления и отладки подключенных устройств. Компания привлекла 8,5 млн долларов в рамках раунда A. Инвесторами выступили Partech и Uncork
+
+8
+
+end-observability-platformfor-iot-devices/
+
+Capital. Это финансирование позволит Memfault масштабировать команду инженеров для удовлетворения растущего спроса со стороны производителей устройств Интернета вещей и сделать значительные инвестиции в разработку продуктов и маркетинг.
+
+Апрель 2021: Teal Communications привлекла 9,1 млн долларов
+
+Источники:
+• https://www.geekwire.com/2 021/iot-connectivitystartup-tealcommunications-raises-91m/
+
+Teal Communications – провайдер платформы для Интернета вещей. Компания привлекла 9,1 млн долларов от StageDotO Ventures, Stormbreaker Ventures, Capital Eleven, Accellius Capital, the Alliance of Angels, Steelhead Partners.
+
+Апрель 2021: RAKwireless привлекла 10 млн долларов
+
+Источники:
+• https://www.prnewswire.co m/newsreleases/rakwireless-closes10m-series-a-fundinground-301276301.html
+
+RAKwireless – производитель микросхем, аппаратного
+
+и программного обеспечения для Интернета вещей.
+
+Компания привлекла 10 млн долларов в рамках раунда
+
+A. Инвесторами выступили Creo Capital и Shunwei. Эти
+
+средства будут использованы для улучшения
+
+производства
+
+высокопроизводительной
+
+инфраструктуры и периферийных устройств, а также
+
+дальнейшего продвижения инициатив компании по
+
+упрощению Интернета вещей.
+
+Май 2021: Cognite привлекла 150 млн долларов
+
+9
+
+Источники:
+• https://www.crunchbase.com /organization/cognite/compa ny_financials
+
+Cognite разрабатывает промышленную платформу данных Интернета вещей, которая обеспечивает цифровую трансформацию тяжелой промышленности. В мае TCV инвестировала 150 млн долларов в компанию.
+
+Май 2021: Cron AI привлекла 4 млн долларов
+
+Источники:
+• http://bwdisrupt.businesswor ld.in/article/Cron-AIAdaptive-Edge-PlatformCompany-Raises-4m-ToRedefine-3DPerception/11-05-2021389268/
+
+Cron AI предлагает платформу восприятия 3D-данных. В мае VenturEast, Kitaki Ventures, YourNest Venture Capital проинвестировали в компанию 4 млн долларов.
+
+Июнь 2021: Relativity Space привлекла 650 млн долларов
+
+Источники:
+• https://www.crunchbase.com /organization/relativityspace/company_financials
+
+Relativity Space – это аэрокосмический стартап, который проектирует, разрабатывает и производит ракеты, напечатанные на 3D-принтере. В июне этого года в рамках раунда Е Relativity Space привлекла 650 млн долларов от 17 инвесторов, среди которых Tiger Global Management, Sand Hill Angels, Coatue, Fidelity Management and Research Company, BlackRock.
+
+Июнь 2021: Claroty привлекла 140 млн долларов
+
+10
+
+Источники:
+• https://www.crunchbase.com/ organization/claroty/company _financials
+
+Claroty
+
+занимается
+
+кибербезопасностью
+
+промышленных сетей управления.
+
+В июне 8 инвесторов, среди которых Bessemer Venture
+
+Partners, Siemens, 40 North Ventures, LG Technology
+
+Ventures, Schneider Electric, инвестировали в
+
+компанию 140 млн долларов.
+
+Июнь 2021: Detect Technologies привлекла 12 млн долларов
+
+Источники:
+• https://www.crunchbase.com /organization/detecttechnologies/company_finan cials
+
+Detect Technologies предлагает платформу
+
+промышленного
+
+искусственного
+
+интеллекта,
+
+повышающую производительность труда с помощью
+
+запатентованного оборудования и передовых
+
+технологий. Detect Technologies использует искусственный интеллект, передовую робототехнику, датчики с поддержкой Интернета вещей, дополненную и виртуальную реальность, компьютерное зрение, чтобы объединить данные, персонал, оборудование и процессы. В июне Accel, Axilor Ventures, Elevation Capital, Bharat Innovation Fund, BlueHill Asset Management проинвестировали 12 млн долларов в компанию.
+
+Источники:
+
+Июнь 2021: floLIVE привлекла 15,5 млн доллоров 11
+
+• https://flolive.net/blog/flolive -secures-15-5-millioninvestment-led-by-intelcapital-and-launches-newglobal-5g-service/
+
+floLIVE – поставщик безопасных облачных решений
+для управления подключением Интернета вещей. В июне Intel Capital, Qualcomm Ventures LLC, Dell Technologies Capital, 83North, Saban Ventures, Arie Capital проинвестировали 15,5 млн долларов в рамках раунда B.
+
+Июнь 2021: CoreTigo привлекла 13 млн долларов
+
+Источники:
+• https://www.prnewswire.co m/news-releases/coretigoraises-13m-series-bround-led-by-cardumencapital-and-verizonventures-301318125.html
+
+CoreTigo – поставщик решений для промышленной беспроводной связи. В июне компания привлекла 13 млн долларов в раунде B. Инвесторами выступили Verizon Ventures, Cardumen Capital, Lenovo Capital, Magma Venture Partners, Meron Capital, Qualcomm Ventures LLC, Sierra Ventures.
+
+Июнь 2021: Foundries.io привлекла 8 млн долларов
+
+Источники:
+• https://www.businesswire.co m/news/home/2021061700 5171/en/Foundries.ioRaises-8M-Series-AFunding-to-ActuallySecure-the-Internet-ofThings
+
+Foundries.io поставщик облачных решениях для развертывания безопасного Интернета вещей и периферийных устройств. Компания привлекла 8 млн долларов от IQ Capital, Crane Venture Partners, Backed VC в раунде A. Привлеченное финансирование будет направлено расширение Foundries.io как за счет набора талантов, так и за счет маркетинга.
+
+Июнь 2021: Monogoto привлекла 11 млн долларов
+
+12
+
+Источники:
+• https://monogoto.io/2021/0 6/09/monogoto-raises11m-funding-for-cellulariot-connectivity-platformtargeting-developers-andenterprises-globally/
+
+Monogoto – поставщик облачной платформы для безопасного подключения и управления Интернетом вещей и мобильными устройствами. Monogoto обеспечивает подключение к Интернету вещей и межмашинное соединение (M2M) с помощью мощных API-интерфейсов, которые позволяют предприятиям и разработчикам проектировать, создавать, управлять, контролировать и масштабировать свои приложения Интернета вещей быстро и безопасно. Компания привлекла 11 млн долларов от Telefonica Tech Ventures, Singtel Innov8, Alter Venture Partners, Triventures, Planven Entrepreneur Ventures.
+
+Июнь 2021: Quantela привлекла 40 млн долларов
+
+Источники:
+• https://www.businessstandard.com/article/compa nies/smart-city-playerquantela-raises-40-mngrowth-capital-from-digitalalpha121062201686_1.html
+
+Quantela – поставщик решений для умных городов с поддержкой Интернета вещей и оцифровки городской инфраструктуры. Компания привлекла 40 млн долларов от Digital Alpha. Финансирование направлено на помощь Quantela в росте за счет приобретений других компаний, а также на помощи городским властям в финансировании проектов по оцифровке инфраструктуры, ориентированных на результат.
+
+13
+
+
